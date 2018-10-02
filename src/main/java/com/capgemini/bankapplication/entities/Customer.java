@@ -15,10 +15,10 @@ public class Customer {
 	private long customerId;
 	private String customerName;
 	@NotEmpty(message = "Password should not be empty.")
-    /*@Size(min = 2, max = 15, message = "Your password must between 2 and 15 characters")*/
+    @Size(min = 2, max = 15, message = "Your password must between 2 and 15 characters")
 	private String customerPassword;
 	@Email
-	//@Size(min=6,max=20, message = "Your emailid should not be empty")
+	@Size(min=6,max=20, message = "Your emailid should not be empty")
 	private String customerEmailId;
 	private String customerAddress;
 	@DateTimeFormat(pattern="yyyy-MM-dd")

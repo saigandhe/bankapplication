@@ -48,7 +48,7 @@
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<li class="nav-item active"><a class="nav-link" href="home"><b><strong>Home</strong>
 					</b><span class="sr-only">(current)</span></a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<li class="nav-item"><a class="nav-link" href="edit"><b><strong>Edit
+				<li class="nav-item"><a class="nav-link" href="editProfile"><b><strong>Edit
 								Profile</strong></b></a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<li class="nav-item"><a class="nav-link" href="fundTransfer"><b><strong>Fund
 								Transfer</strong></b></a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
